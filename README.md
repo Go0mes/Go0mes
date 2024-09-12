@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Go0mes
 - 👀 I am an FTC competitor for the Ragnarok team
 - 🌱 I’m currently learning Java, C++ and Python
-- 💞️ I'm looking to collaborate with my team's codes
